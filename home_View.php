@@ -72,6 +72,7 @@
     <div class="wrapper_head" style="background-color: white;">
     <div class="logo_head ">
             <img class="logos " src="<?= base_url("images/loader.png")?>" alt="Logo Image">
+            <h3>Welcome back</h3>
         </div>
         <div class="container">
             <div class="row">
